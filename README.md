@@ -129,5 +129,5 @@ Runs the app in development mode.<br>
 - Showing an Alert
 
   ### REFERENCES
-  https://www.youtube.com/watch?v=SqcY0GlETPk
-  https://getbootstrap.com/docs
+  [YOUTUBE](https://www.youtube.com/watch?v=SqcY0GlETPk)
+  [BOOTSTRAP](https://getbootstrap.com/docs)
